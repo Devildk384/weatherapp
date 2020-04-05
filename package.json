@@ -2,7 +2,7 @@
   "name": "weather-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Devildk384/weatherapp/",
+  "homepage": "https://github.com/Devildk384/appweather",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
